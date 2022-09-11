@@ -1,0 +1,4 @@
+D:/ggWorkspace/testArea/vscodes/Hello World/build/CMakeFiles/hellolib.dir
+D:/ggWorkspace/testArea/vscodes/Hello World/build/CMakeFiles/main.dir
+D:/ggWorkspace/testArea/vscodes/Hello World/build/CMakeFiles/edit_cache.dir
+D:/ggWorkspace/testArea/vscodes/Hello World/build/CMakeFiles/rebuild_cache.dir

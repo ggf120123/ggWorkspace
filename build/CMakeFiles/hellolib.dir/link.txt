@@ -1,0 +1,2 @@
+D:\ggWorkspace\mingw64\bin\ar.exe qc libhellolib.a CMakeFiles/hellolib.dir/src/hello.cpp.obj
+D:\ggWorkspace\mingw64\bin\ranlib.exe libhellolib.a

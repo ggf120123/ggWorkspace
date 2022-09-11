@@ -1,0 +1,12 @@
+[
+{
+  "directory": "D:/ggWorkspace/testArea/vscodes/Hello World/build",
+  "command": "D:\\ggWorkspace\\mingw64\\bin\\g++.exe -DFMT_SHARED @CMakeFiles/hellolib.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\hellolib.dir\\src\\hello.cpp.obj -c \"D:\\ggWorkspace\\testArea\\vscodes\\Hello World\\src\\hello.cpp\"",
+  "file": "D:/ggWorkspace/testArea/vscodes/Hello World/src/hello.cpp"
+},
+{
+  "directory": "D:/ggWorkspace/testArea/vscodes/Hello World/build",
+  "command": "D:\\ggWorkspace\\mingw64\\bin\\g++.exe -DFMT_SHARED @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\main.cpp.obj -c \"D:\\ggWorkspace\\testArea\\vscodes\\Hello World\\src\\main.cpp\"",
+  "file": "D:/ggWorkspace/testArea/vscodes/Hello World/src/main.cpp"
+}
+]
